@@ -1,0 +1,281 @@
+<!DOCTYPE html5>
+<html>
+    <head>
+       <title>Jolomi Girl Child foundation</title>
+       <meta charset="utf-8"/>
+       <link href="stylesheet"  type="text/project/JOLOMIGIRLCHILDFOUNDATION.css"/>
+
+
+
+
+       <style>
+         body{
+           background-color:rgba(82, 55, 156, 0.603);
+           opacity: inherit;
+           
+ 
+         }
+ 
+         h1{
+           text-align: center;
+            color: black;
+            margin-top: 0%;
+         }
+ 
+         .subscribe-button{
+             background-color:rgba(190, 22, 22, 0.888);
+             color: red;
+             width: 140;
+             height:36;
+             margin-top:10;
+             cursor:pointer;
+             margin-top: 10;
+             display: block;
+             align-items: flex-start;
+ 
+ 
+         }
+ 
+         .subscribe-button:hover{
+           
+           background-color:rgba(190, 22, 22, 0.888);
+           color: white;
+         }
+              
+
+        .join-button{
+                 background-color: rgba(82, 55, 156, 0.603);
+                 color:white;
+                 width: 140;
+                 height: 36;
+                 border-radius: 2;
+                 nav-left: root;
+                 margin-right:16;
+                 display: block;
+ 
+              }
+ 
+              .join-button:hover{
+                 background-color: aqua;
+              }
+ 
+              .join-button:active{
+                 opacity:0.7;
+              }
+ 
+            
+            .home-div{
+              background-color: red;
+              width:120;
+              height:20;
+              margin-right: 10;
+             }
+              
+             .content-div{
+              background-color: blue;
+              width: 120;
+              height: 20;
+              margin-right: 10;
+             }
+            
+             .About-div{
+              background-color: white;
+              width: 130;
+              height: 30;
+              margin-right: 10;
+           
+             }
+ 
+           .whatsapp-button{
+              background-color:green;
+              width: 120;
+              height:36;
+              margin-right: 10;
+           }
+ 
+           .facebook-button{
+             background-color: blue;
+             max-width: 140;
+             height: 35;
+             margin-left:20;
+ 
+            }
+ 
+           .img-div{
+              background-color: rgba(250, 235, 215) ; 
+              display:ruby-base-container;
+              margin-top: 8;
+              margin-left: 8;
+              margin-bottom: 8;
+              border-image-source: none;
+              text-align: center;
+ 
+ 
+           }
+           
+
+    
+        .h1-div{
+    
+            background-size: cover; 
+            background-color: red;
+            margin-right:40;
+        }
+    
+          .button-div{
+           background-color:rgba(20, 132, 70, 0.502);
+            margin-top: 20;
+            font-family: arial;
+            width: 100;
+            height: 50;
+            
+    
+          }
+    
+    
+           .button-div:hover{
+            background-color: red;
+            color: aqua;
+            cursor:pointer;
+            
+           }
+    
+           .butoon-div:active{
+            opacity:0.7;
+           }
+    
+           .button-text{
+            background-color: red;
+            color: aqua;
+            cursor: pointer;
+           }
+
+    
+    
+    
+    
+    
+    
+    
+    
+            
+    
+    
+    
+
+      </style>
+     </head>
+      
+         
+     <body>
+
+     <div>
+      <li class="home-div">Home</li>
+      <li class="content-div">Content</li>
+      <li class="about-div">About</li>
+   </div>
+           
+         <div>
+           <img src="Desktop/image/FB_IMG_1729982465684.jpg" width="800" height="400"/>
+         </di>
+         
+         
+           <div>
+       <p>This foundation is for <b>girls</b> within the range of <b>10-20</b>years.click the links ahead to view girl child<a href="https://www.freepik.com/free-photos-vectors/beautiful-13-year-old-girls/2">link to google</a></p>
+      <p>It is a girl child foundation.</p>
+         </div>
+   
+
+          
+              <h2>Our core values include;</h2>
+         <div>
+            <li>Girl Child be resourceful.</li>
+            <li>Girl Child be productive.</li>
+            <li>Girl child be respectful.</li>
+         </div>
+         
+         
+            
+
+              
+
+
+
+      
+
+           <button class="facebook-button">facebook</button>
+           <button class="whatsapp-button">@whatsapp</button>
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <button class="subscribe-button">subscribe</button>
+
+     <button class="join-button">join</button>
+    
+        <div>
+         <h1 class="h1-div">some of our sensitization programmes.</h1>
+     </div>
+       
+        
+    
+        <div class="img-div">
+       <img src="Desktop/image/FB_IMG_1729982454410.jpg"  width="250" height="300"/>
+       <img src="Desktop/image/FB_IMG_1729982516307.jpg" width="300"  height="300"/>
+      
+           <p>We go periodically for sensitization programmes to inculcate knowledge,values and morals to the girl child.This sensitization programmes includes; </p>
+    
+           <ol>
+             <li>Sharing of pads</li>
+             <li>Teaching the girl child to stay away from inordinate affections at their tender age.</li>
+             <li>Aviod keeping bad companys.</li>
+             <li>Be God inside minded.</li>
+             <li>To be a good wife material.</li>
+             <li>To focus on their education.</li>
+             <li>Not to be a liability to their parents in future.</li>
+            </ol>
+    
+              <div>
+                  <img src="c:\Users\DELL\Pictures\FB_IMG_1729982516307.jpg" width="300" height="150"/>
+              </div>
+               
+                <div>
+              <button class="Donate-div">Donate</button>
+                </div>
+
+                </div>
+              <button class="text-button">
+                 donate monthly<br>
+                 campaign with us<br>
+                 learn and share<br>
+                 partner with us<br>
+                 work with us<br>
+                
+              </button>
+                </div>
+              
+              </body>
+
+
+
+
+</html>
+
+
+
+
+
+
+
+
